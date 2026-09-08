@@ -2,7 +2,7 @@
 title               : Allan Wladimir (Penafiel-Mera)
 description         : Transport Researcher 
 url                 : "https://allan-wladimir.pm"
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : allan-wpm/allan-wladimir.pm      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 remote_theme        : yousinix/portfolioYOU
