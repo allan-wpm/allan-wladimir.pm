@@ -26,11 +26,11 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Allan Wladimir
   image             : assets/images/ProfilePic1.jpg
-  behance           : allanwpm
+# behance           : allanwpm
 # dribbble          : your_username
-  email             : username@domain.com
+# email             : username@domain.com
 # facebook          : your_username
-  github            : your_username
+  github            : allan-wpm
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
@@ -46,7 +46,8 @@ author:
 # youtube           : your_channel_name
 # keybase           : your_username
   researchgate      : https://www.researchgate.net/profile/Allan-Penafiel
-  orcid             : 
+  orcid             : https://orcid.org/0000-0002-3010-2230
+  mastodon          : @allanwpm
 
 
 ### Posts ###
@@ -75,7 +76,7 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
-  enabled: false
+  enabled: true
   username: your_username
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
