@@ -1,12 +1,9 @@
 ### Site Settings ###
 title               : Allan Wladimir (Penafiel-Mera)
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : yousinix/portfolYOU
+description         : Transport Researcher 
+baseurl             : "allan-wladimir.pm"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : allan-wladimir.pm      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : allan-wladimir.pm
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -25,9 +22,9 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Allan Wladimir
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  behance           : allanwpm
 # dribbble          : your_username
   email             : username@domain.com
   facebook          : your_username
