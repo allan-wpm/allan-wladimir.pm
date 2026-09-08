@@ -1,7 +1,7 @@
 ---
 name: Is cycling in pedestrian areas recommended?
-tools: [nothing, important]
+tools: [Literature Review, Spatial Analysis]
 image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: This project was developed for Bridgend City Council, in collaboration with CityLink. 
 external_url: https://www.google.com
 ---
