@@ -2,12 +2,10 @@
 title               : Allan Wladimir (Penafiel-Mera)
 description         : Transport Researcher 
 url                 : "https://allan-wladimir.pm"
-baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : allan-wpm/allan-wladimir.pm      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
-# Change the remote_theme to a GitHub Pages supported theme
-#remote_theme        : yousinix/portfolioYOU
-theme               : jekyll-theme-primer
+remote_theme        : yousinix/portfolioYOU
 
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
