@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Allan Wladimir
-  image             : assets/ProfilePic1.jpg
+  image             : assets/images/ProfilePic1.jpg
   behance           : allanwpm
 # dribbble          : your_username
   email             : username@domain.com
