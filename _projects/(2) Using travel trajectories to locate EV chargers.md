@@ -1,8 +1,8 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Proof of Concept: using travel trajectories for the allocation of EV charging stations
+tools: [Spatial Analysis, QGIS, Python]
+image: /assets/images/profile.jpg
+description: This project was a collaboration between Travel AI (travelai.info) and Cardiff University. In this project we explored the use of travel diaries, recorded by an app, for set of participant residents of Glasgow, to identify the optimal location of EV chargers based on the time the vehicles remain parked.
 ---
 
 # The Movies Project
