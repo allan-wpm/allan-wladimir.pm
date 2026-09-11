@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Career Trajectory
 permalink: /about/
 weight: 3
 ---
@@ -16,10 +16,12 @@ Throughout my career, I have worked in both private and public sector organisati
 Between 2021 and 2026, I completed my doctoral research while contributing to teaching and learning at Cardiff University. During this period, I taught Sustainable Transport Policies and further strengthened my expertise in transport economics, policy evaluation, and transport planning. My research interests encompass transport demand, road pricing, sustainable mobility, equity in transport, and the economic evaluation of transport policies.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/timeline.html %}
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 </div>
+
+
