@@ -5,6 +5,8 @@ permalink: /about/
 weight: 1
 ---
 
+{% include about/aboutme.html %}
+
 # **About Me**
 
 Hi I am **{{ site.author.name (Peñafiel-Mera) }}**
