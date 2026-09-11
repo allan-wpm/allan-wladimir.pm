@@ -5,7 +5,7 @@ permalink: /
 
 {% include landing.html %}
 
-# **About Meeeee**
+# **About Me**
 
 Hi I am **{{ site.author.name (Peñafiel-Mera) }}** :wave:,<br> 
 
