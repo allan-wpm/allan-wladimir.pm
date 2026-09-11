@@ -6,7 +6,7 @@ weight: 1
 ---
 
 <div class="row">
-{% include about/trajectory.html %}
+{% include about/timeline.html %}
 </div>
 
 <div class="row">
