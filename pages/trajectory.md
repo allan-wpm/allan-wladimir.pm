@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career Trajectory
-permalink: /about/
+permalink: /trajectory/
 weight: 3
 ---
 
