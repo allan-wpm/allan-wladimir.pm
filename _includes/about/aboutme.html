@@ -1,13 +1,10 @@
 <div class="col mt-4">
-  <div class="timeline-body bg-themed">
-    {% for item in site.data.timeline %}
-      <div class="timeline-item">
-        <div class="content">
-          <h2>{{ item.title }}</h2>
-          <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
-          <p>{{ item.description }}</p>
-        </div>
+  <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
       </div>
-    {% endfor %}
+    </div>
+
   </div>
-</div>
