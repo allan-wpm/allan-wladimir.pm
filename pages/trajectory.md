@@ -2,7 +2,7 @@
 layout: page
 title: Career Trajectory
 permalink: /about/
-weight: 1
+weight: 3
 ---
 
 <div class="row">
