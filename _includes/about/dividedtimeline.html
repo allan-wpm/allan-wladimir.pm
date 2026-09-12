@@ -5,12 +5,17 @@
     <div class="timeline-label right">Experience</div>
   </div>
 
+  {% assign previous_year = "" %}
+
   {% for item in site.data.timeline %}
     <div class="timeline-item {{ item.category }}">
       
-      <div class="timeline-year">
-          {{ item.from }}
+      {% if item.from != previous_year %}
+        <div class="timeline-year">
+        {{ item.from }}
         </div>
+        {% assign previous_year = item.from %}
+      {% endif %}
       
       <div class="content">
         <h2>{{ item.title }}</h2>
