@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-{{ site.author.image }}
+
 
 # **About Me**
 
