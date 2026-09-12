@@ -86,3 +86,15 @@
     left: -10px;
   }
 }
+
+.timeline-year {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: $body-bg;
+  padding: 0 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  z-index: 20;
+}
