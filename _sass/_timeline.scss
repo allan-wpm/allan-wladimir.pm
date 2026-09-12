@@ -97,8 +97,14 @@
 
 .timeline-year {
   grid-column: 2;
-  text-align: center;
+  justify-self: center;
+  align-self: center;
+  background-color: #343a40;
+  padding: 4px 10px;
+  border: 2px solid $primary;
+  border-radius: 20px;
   font-weight: 700;
+  z-index: 2;
 }
 
 .timeline-education {
