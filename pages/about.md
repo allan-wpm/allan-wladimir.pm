@@ -6,8 +6,10 @@ weight: 1
 ---
 
 
-{% include about/aboutme.html %}
+<div class="row">
+{% include ababout/aboutme.html title="Programming Skills" }
 
+</div>
 
 # **About Me**
 
