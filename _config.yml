@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Allan Wladimir (Peñafiel-Mera)
-description         : Transport Researcher 
+description         : Personal and professinal Website of Allan Wladimir (Peñafiel-Mera) 
 url                 : "https://allan-wladimir.pm"
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : allan-wpm/allan-wladimir.pm      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
