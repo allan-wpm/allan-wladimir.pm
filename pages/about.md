@@ -7,7 +7,7 @@ weight: 1
 
 {% include about/aboutme.html %}
 
-**{{ site.author.image }}
+**{{ site.author.image }}**
 
 # **About Me**
 
