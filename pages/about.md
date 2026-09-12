@@ -7,9 +7,11 @@ weight: 1
 
 {% include about/aboutme.html %}
 
+**{{ site.author.image }}
+
 # **About Me**
 
-Hi I am **{{ site.author.name (Peñafiel-Mera) }}**
+Hi I am **{{ site.author.name }}**
 
 I am a transport researcher with extensive experience investigating a wide range of transport challenges across academia, government, and industry. My journey in the transport sector began in 2007 when I commenced my undergraduate studies in Logistics and Transportation at ESPOL Polytechnic School in Guayaquil, Ecuador. Since then, I have held a variety of transport-related roles, including delivery planner, transport analyst, transport policy advisor, and local transport expert.
 
