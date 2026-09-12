@@ -1,112 +1,113 @@
 - title: PhD in Transportation and Mobility Management, Cardiff University, Cardiff, UK.
   from: 2022
   to: 2026
+  category: education
   description: Doctoral research focused on transport economics, mobility, and transport systems. The research explores network performance, transport policy, and transport modelling using quantitative and optimisation methods.
-
 
 - title: Graduate Tutor, Cardiff University, Cardiff, UK.
   from: 2022
   to: Present
+  category: experience
   description: Deliver teaching and tutorial support in transport, mobility, and social science related subjects. Assist students with quantitative methods, research projects, and academic development.
-
 
 - title: Research Assistant, Cardiff University, Cardiff, UK.
   from: 2025
   to: 2025
+  category: experience
   description: Contributed to transport and mobility research projects involving data analysis, literature reviews, quantitative modelling, and research dissemination.
-
 
 - title: MSc Social Science Research Methods, Cardiff University, Cardiff, UK.
   from: 2021
   to: 2022
+  category: education
   description: Advanced training in quantitative and qualitative research methods, statistical analysis, research design, and social science methodologies. The programme provided the methodological foundation for doctoral research.
-
 
 - title: Transportation Consultant, Cercana®, Quito, EC.
   from: 2021
   to: Present
+  category: experience
   description: Provide consultancy services in transport planning, mobility, transport policy, operational planning, and transport system improvement projects.
-
 
 - title: Interim General Manager, Metro de Quito, Quito, EC.
   from: 2021
   to: 2021
+  category: experience
   description: Oversaw the administration and operation of the organisation during a transitional management period. Coordinated stakeholders and supported the implementation of operational objectives.
-
 
 - title: Operations Planning Officer, Metro de Quito, Quito, EC.
   from: 2021
   to: 2021
+  category: experience
   description: Supported operational planning activities for the metro system, including service planning, operational coordination, and performance monitoring.
-
 
 - title: General Manager, Cercana®, Quito, EC.
   from: 2020
   to: 2021
+  category: experience
   description: Directed the organisation's strategic, operational, and administrative activities. Managed multidisciplinary teams and coordinated transport and mobility consultancy projects.
-
 
 - title: Director of Studies and Projects, National Transit Agency, Quito, EC.
   from: 2019
   to: 2020
+  category: experience
   description: Led transport studies, policy analysis, mobility projects, and technical evaluations to support national transport planning and regulation.
-
 
 - title: Technical Advisor, National Transit Agency, Quito, EC.
   from: 2019
   to: 2019
+  category: experience
   description: Provided technical support on transport policy, mobility analysis, project evaluation, and regulatory matters.
-
 
 - title: Co-founder, Centro Pro Pasajeros, Ecuador.
   from: 2018
   to: 2020
+  category: experience
   description: Co-founded a civil society initiative focused on improving public transport, passenger rights, and sustainable mobility in Ecuador.
-
 
 - title: Transport and Mobility Analyst, Ministry of Transport and Public Works, Quito, EC.
   from: 2018
   to: 2019
+  category: experience
   description: Conducted transport and mobility analyses to support policy development, strategic planning, and project appraisal.
-
 
 - title: Visiting Lecturer, ESPOL Polytechnic School, Guayaquil, EC.
   from: 2018
   to: 2018
+  category: experience
   description: Delivered lectures on transport modelling. Topics included the four-stage transport modelling framework and the use of OmniTRANS transport planning software.
-
 
 - title: MSc(Eng) Transport Planning and Engineering, University of Leeds, Leeds, UK.
   from: 2016
   to: 2017
+  category: education
   description: Advanced study of transport planning, transport engineering, travel demand modelling, traffic management, and transport appraisal. The programme emphasised evidence-based decision making and sustainable mobility.
-
 
 - title: Technical and General English, European College Management, Guayaquil, EC.
   from: 2015
   to: 2016
+  category: education
   description: Intensive English language training focused on professional communication, academic writing, and general language proficiency.
-
 
 - title: Transport Planner, Kimberly-Clark, Guayaquil, EC.
   from: 2012
   to: 2015
+  category: experience
   description: Planned distribution routes at national scale, analysed freight demand, determined fleet requirements, and optimised transport operations. Monitored operational indicators and participated in regional Lean initiatives across Ecuador, Peru, Bolivia, Colombia, and Venezuela.
-
 
 - title: Warehouse Controller, SABMiller, Guayaquil, EC.
   from: 2012
   to: 2012
+  category: experience
   description: Controlled inbound packaging flows, coordinated product dispatch activities, monitored operational performance indicators, and supported warehouse operations.
-
 
 - title: Inventory Analyst, Int. Food Services Corp., Guayaquil, EC.
   from: 2012
   to: 2012
+  category: experience
   description: Managed raw material inventories, coordinated procurement requests to warehouses and suppliers, monitored stock expiration, and organised inventory audits and controls.
-
 
 - title: BEng Logistics and Transportation Engineering, ESPOL Polytechnic School, Guayaquil, EC.
   from: 2007
   to: 2012
+  category: education
   description: The programme provided advanced knowledge in logistics, transportation, operations research, and mathematical optimisation. Topics included linear optimisation, non-linear optimisation, metaheuristics, routing problems, inventory systems, and transport planning applications.
