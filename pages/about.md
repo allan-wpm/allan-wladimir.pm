@@ -6,10 +6,7 @@ weight: 1
 ---
 
 
-<div class="row">
-{% include about/aboutme.html  }
-
-</div>
+{{ site.author.image }}
 
 # **About Me**
 
