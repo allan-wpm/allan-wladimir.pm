@@ -87,20 +87,31 @@
   }
 }
 
-.timeline-year {
-  position: absolute;
-  top: -18px;
-  left: 50%;
-  transform: translateX(-120%);
-  background-color: #343a40;
-  padding: 0 8px;
-  font-weight: 600;
-  font-size: 0.9rem;
-  z-index: 20;
+.timeline-row {
+  display: grid;
+  grid-template-columns: 1fr 80px 1fr;
+  gap: 2rem;
+  position: relative;
+  margin-bottom: 3rem;
 }
 
-.timeline-row {
-  position: relative;
-  min-height: 120px;
+.timeline-year {
+  grid-column: 2;
+  text-align: center;
+  font-weight: 700;
+}
+
+.timeline-education {
+  grid-column: 1;
+  text-align: right;
+}
+
+.timeline-experience {
+  grid-column: 3;
+  text-align: left;
+}
+
+.timeline-education .content,
+.timeline-experience .content {
   margin-bottom: 2rem;
 }
