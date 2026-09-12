@@ -8,10 +8,25 @@
   
 
   {% assign timeline = site.data.timeline | sort: "to" | reverse %}
-  {% assign previous_year = "" %}
 
-  {% for item in timeline %}
-  
+  {% assign years = timeline | map: "to" | uniq %}
+
+  {% for year in years %}
+
+    <div class="timeline-row">
+
+      <div class="timeline-year">
+        {% if year == 9999 %}
+          Present
+        {% else %}
+          {{ year }}
+        {% endif %}
+      </div>
+
+    </div>
+    
+    
+    <!--
     <div class="timeline-item {{ item.category }}">
       
       {% assign current_year = item.to %}
@@ -44,6 +59,11 @@
         <p>{{ item.description }}</p>
       </div>
     </div>
+
+    -->
+
+
+    
   {% endfor %}
 
 </div>
